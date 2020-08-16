@@ -34,7 +34,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="express" width="26px" src="https://cdn.glitch.com/project-avatar/fa1f1a9a-054c-42b2-93ab-83ec4f40695d.png?2017-09-13T18:38:00.967Z" />
-<img align="left" alt="flutter" width="26px" src="https://www.kindpng.com/imgv/iRbwhbb_python-computer-icons-programmer-javascript-programming-python-logo/#gal_python-computer-icons-programmer-javascript-programming-python-logo-png-transparent-png_iRbwhbb_1595798.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 
 [facebook]: https://web.facebook.com/profile.php?id=100021930142167
