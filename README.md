@@ -2,7 +2,7 @@
 ## I'm Sohaib! Student, Web Developer and AI Passionate 💻
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for a new adventure, one that involves a hackathon maybe? 🙄
+- 👯 I’m looking for a new adventure, what about a small challenge, a project or a hackathon ? 🙄
 - ⚡ Fun fact: I love Pizza 🍕
 - 📥 Reach me out : js_zouambia@esi.dz || sohaib.zouambia@studentambassadors.com 📧
 
