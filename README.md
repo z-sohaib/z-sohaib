@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sohaib</h1>
+<h1 align="center">Hi 👋, I'm Zouambia Sohaib</h1>
 <h3 align="center">A computer science student, web developer and AI passionate</h3>
 
 - 🔭 I’m currently working on **some cool projects**
