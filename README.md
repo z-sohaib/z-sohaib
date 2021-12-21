@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Zouambia Sohaib</h1>
-<h3 align="center">A computer science student, web developer and AI passionate</h3>
+<h3 align="center">A computer science student, web developer, cyber security passionate and CTF player</h3>
 
 - 🔭 I’m currently working on **some cool projects**
 
-- 🌱 I’m currently learning **artificial intelligence and more about web dev**
+- 🌱 I’m currently learning **cyber security and more about web dev**
 
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 
