@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zouambia Sohaib</h1>
-<h3 align="center">A computer science student, web developer, cyber security passionate and CTF player</h3>
+<h3 align="center">A computer science student, web developer and cyber security passionate.</h3>
 
 - 🔭 I’m currently working on **some cool projects**
 
