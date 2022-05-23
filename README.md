@@ -20,5 +20,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z-sohaib&show_icons=true&locale=en" alt="z-sohaib" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=z-sohaib&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=z-sohaib&theme=prussian"/>
+
 
