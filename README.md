@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 
-- 📫 How to reach me **js_zouambia@esi.dz || sohaib.zouambia@studentambassadors.com**
+- 📫 How to reach me **js_zouambia@esi.dz || contact.zsohaib@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
