@@ -21,6 +21,6 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=z-sohaib&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=z-sohaib&theme=prussian"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=z-sohaib&theme=prussian&count_private=true"/>
 
 
