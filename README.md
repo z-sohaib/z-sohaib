@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **some cool projects**
 
-- 🌱 I’m currently learning **cyber security and more about web dev**
+- 🌱 I’m currently learning **more about Software Architect and AI**
 
 - 💬 Ask me about **anything I know. I would be glad to share what I know with you**
 
