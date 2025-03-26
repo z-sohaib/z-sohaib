@@ -20,7 +20,7 @@
 
 
 
-<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api?username=z-sohaib&theme=prussian&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
-<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api/top-langs?username=z-sohaib&theme=prussian&count_private=true"/>
+<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api?username=z-sohaib&theme=prussian&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api/top-langs?username=z-sohaib&theme=prussian&count_private=true&theme=dark"/>
 
 
