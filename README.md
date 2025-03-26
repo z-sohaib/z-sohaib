@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zouambia Sohaib</h1>
 <h3 align="center">A computer science student, software engineer and AI passionate.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=z-sohaib&label=Profile%20views&color=0e75b6&style=flat" alt="rostomgh" /> </p>
+
 - 🔭 I’m currently working on **some cool projects**
 
 - 🌱 I’m currently learning **more about Software Architect and AI**
