@@ -20,7 +20,7 @@
 
 
 
-<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api?username=z-sohaib&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats"/>
-<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api/top-langs?username=z-sohaib&hide=htmln&count_private=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api?username=z-sohaib&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img src="https://github-readme-stats-zsohaibs-projects.vercel.app/api/top-langs?username=z-sohaib&hide=html&count_private=true&theme=tokyonight"/>
 
 
