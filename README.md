@@ -59,6 +59,6 @@
       <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=z-sohaib&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
     </p>
     </div>
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+     <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=z-sohaib&theme=xcode&hide_border=true" alt="Activity graph">
-    </a>
+    </a> -->
