@@ -60,5 +60,5 @@
     </p>
     </div>
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=z-sohaib&theme=xcode&hide_border=true" alt="Activity graph">
     </a>
