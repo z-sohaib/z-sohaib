@@ -1,3 +1,15 @@
+<div style="display: flex; justify-content: space-between; align-items: center; height: 200px;">
+      <p align="center">
+      <img src="https://kv.jobleap4u.com/z-sohaib-count" style="width: 0; height: 0; border: none; display: block;" alt="" />
+      <img  src="https://github-readme-stats.vercel.app/api?username=z-sohaib&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="XiaomingX's GitHub Stats" />
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=z-sohaib&theme=transparent&layout=donut&hide=css,php,ClassASP&langs_count=3&border_radius=8&show_icons=true&locale=en" alt="XiaomingX's Most Used Languages" />
+    </p>
+    </div>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaomingX&theme=xcode&hide_border=true" alt="Activity graph">
+    </a>
+  <hr style="border: none; height: 1px; background-color: #ccc; margin: 20px 0; width: 100%;">
+
 <h1 align="center">Hi 👋, I'm Zouambia Sohaib</h1>
 <h3 align="center">A computer science student, software engineer and AI passionate.</h3>
 
@@ -51,10 +63,3 @@
 <a href="https://www.instagram.com/_z.sohaib_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_z.sohaib_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/z_sohaib" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="z-sohaib" height="30" width="40" /></a>
 </p>
-
-<a href="https://github.com/z-sohaib">
-  <img height=200 align="center" src="https://github-readme-stats-zsohaibs-projects.vercel.app/api?username=z-sohaib&theme=tokyonight&count_private=true" />
-</a>
-<a href="https://github.com/z-sohaib">
-  <img height=200 align="center" src="https://github-readme-stats-zsohaibs-projects.vercel.app/api/top-langs?username=z-sohaib&hide=html&count_private=true&theme=tokyonight&hide_progress=true&layout=compact&card_width=320" />
-</a>
